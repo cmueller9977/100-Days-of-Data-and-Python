@@ -1,6 +1,35 @@
 # 100 Days of Data and Python - Personal Log
 
-### Day 1 
+### Day 4 - 26.02.2023
+
+
+
+
+### Day 3 - 25.02.2023
+
+Starting with a Dutch podcast and it's transcript. Also vocabulary. 
+
+Working on the MOM Infographic / Dashboard. 
+Checked for best resolutions for Dashboards. Found an idea for data modelling for the capital bikeshare project (with the geo data).
+
+Inner French Podcast about AI. First thought: it's too slow for me. Maybe an indicator that I've made progress? Who knows.
+
+Reading articles about Docker. Something that interests me since a while. How could it be possible used in data analytics. Mostly it seems it's used in data science. But how to make use of it in analytics?
+
+
+
+### Day 2 - 24.02.2023
+
+Again started with a short podcast and the transcript in Dutch. 
+
+Going over excercises in Python but something seems wrong with my python installation or my vscode. Have to figure it out first.
+
+Always reading different stuff on Medium or all over the internet. A daily habbit. The question is, if I should share the (imho) best articles / sources?
+If somebody reads this: let me know what to do. 
+
+
+
+### Day 1 - 23.02.2023
 
 Dutch: Podcast and transcript. Dutch online acamday has a few good ones seperated by level.
 

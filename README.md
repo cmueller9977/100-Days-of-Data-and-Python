@@ -3,7 +3,7 @@
 
  ### The initial idea 23.02.2023
 
-Back in december I started with the 100 Days o Code Challenge but I failed. Because of beeing sick, beeing pressured to apply to find a job, coping with the circumstances around me and several other reasons.
+Back in december I started with the 100 Days of Code Challenge but I failed. Because of beeing sick, beeing pressured to apply to find a job, coping with the circumstances around me and several other reasons.
 Failing harddisc followed by data-loss and the new harddisc also failing after a few days. It sucks. 
 
 I am still in the same spot but I have to go on with learning and all that stuff. So I have to find a work-around to get things working out. Especially finally getting into Python. And also getting stuff out for the portfolio-page.
