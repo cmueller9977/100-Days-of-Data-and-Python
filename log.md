@@ -2,7 +2,14 @@
 
 ### Day 4 - 26.02.2023
 
+Capital Bikeshare project: Having a second file with the locations I need to build a different data model with the rides as fact table and the locations (and the geo data) as a dimension
 
+Wordpress: GitHub embed for repos. Now I need another one to embed code in the right way. Have to try out different add-ons.
+
+Finished the protein report for Makeover Monday Week 8. To publish it it needs to be admin. So figuring this out is next.
+Finally worked and the report is published. Cool. :)
+
+If you use something like Maven to publish a portfolio all these things behind the scenes are missed. All these things with the licenses, administration and so on. I really like to do things with my wordpress-page. You learn so much more instead of using a predifend service. So cool!
 
 
 ### Day 3 - 25.02.2023
