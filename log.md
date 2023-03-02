@@ -1,5 +1,14 @@
 # 100 Days of Data and Python - Personal Log
 
+### Day 7 - 01.03.2023
+
+Difficult today. Visitors are coming for a few days. So we have to clean things a bit up. And it's the short school day. So kids are back home early.
+
+Plan is later that day going again after Datacamp and the Python Track. Need that for the BeCode test. Repeating the Chapters.
+Also Dutch: Yesterday I had class and it's always a ton to do afterwards. Topic: Perfectum.
+
+
+
 ### Day 6 - 28.02.2023
 
 Better today. Almost enough sleep.
@@ -19,6 +28,9 @@ The Modi (4) -> Drill in: Next Level are the temps included in that Mode.
 Next level down: you get the verbs with the endings (the konjugated verbs).
 Qustion for that level is if you get right now to the verbs and the declinations all together for one verb or one by one.
 
+By getting to fill my gaps I am trying to develop a path - a step by step guide. First approach is coming from "two sides" from the level of the modi downward but at the same time starting from the "lowest level" the endings of the verbs. A Dashboard described above could imho offer an overview with the possibility to go into the details by the drill-down.
+How do I organize the data? Maybe starting with an Excel-Sheet. The question is how to organizie it. Thinking about it.
+Identifying the most (let's say) 100 verbs as a basis.
 
 ### Day 5 - 27.02.2023
 
