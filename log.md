@@ -1,5 +1,18 @@
 # 100 Days of Data and Python - Personal Log
 
+### Day 8 - 02.03.2023
+
+Data modeling for makeover monday - caffeine content
+Also discoverd the Workout Wednesday - Just checking.
+Interesting articel about Geodata and analysis (Softqware) could be useful for Bikeshare?
+
+For MOM data modeling. calculated column - ratio in mg / ml. now how do i put that in a viz?
+Almost done the thing. Also a bit of Python. Ah its already done. 
+
+Wireframes! Check it out!
+
+
+
 ### Day 7 - 01.03.2023
 
 Difficult today. Visitors are coming for a few days. So we have to clean things a bit up. And it's the short school day. So kids are back home early.
