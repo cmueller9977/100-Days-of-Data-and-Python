@@ -1,5 +1,31 @@
 # 100 Days of Data and Python - Personal Log
 
+### Day 11 - 06.03.2023
+
+Did a bit yesterday for french too but not that much. So, here we have another monday and we start over.
+
+Checked the mom for this week. Don't know. It's a really basic dataset and lacks so much info. Thinking about to add other sources that could be important to understand the development at least a bit better.
+
+Dutch-Podcast: Level A2 - B1. Works fine. 
+Since a few days using the practice function at datacamp for python. Nice feature.
+
+
+### Day 10 - 04.03.2023
+
+French: creating excel-files for vocabs. Also grammar passé composé.
+Not much more because our visitors.
+
+
+### Day 9 - 03.03.2023
+
+Had an interview. Will see what comes around.
+
+Bug-hunting for publihing reports. Now it's working. Seems I posted the wrong link but I don't know for sure.
+
+Heading for week 9 of wow2023.
+
+Found a template for an interactive CV for Power BI. Very nice. It's over at wow2023.
+
 ### Day 8 - 02.03.2023
 
 Data modeling for makeover monday - caffeine content
